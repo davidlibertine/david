@@ -1,4 +1,6 @@
 #data source
+evn:
+  dev
 spring:
   datasource:
     name: ilabservice
